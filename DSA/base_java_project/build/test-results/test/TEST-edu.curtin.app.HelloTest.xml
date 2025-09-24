@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.curtin.app.HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-02T08:51:14" hostname="SAMS" time="0.07">
+  <properties/>
+  <testcase name="testHello()" classname="edu.curtin.app.HelloTest" time="0.07"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 02, 2025 4:51:14 PM edu.curtin.app.Hello getHello
+INFO: About to return 'Hello world!'
+]]></system-err>
+</testsuite>
