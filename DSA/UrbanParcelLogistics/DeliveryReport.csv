@@ -1,0 +1,9 @@
+Customer_id,name,address,destination_hub,travel_time,delivery_status
+106,Collision_Test,789_Pine_Rd,C,3.0,Delivered
+1053,Jaxon_Price,1110_Sage_St,B,4.0,Delivered
+1001,John_Doe,123_Main_St,B,4.0,Delivered
+53,Bob_Wilson,321_Elm_St,B,4.0,Delivered
+1049,Gabriel_Watson,606_Vinewood_Ave,F,6.0,Delivered
+106,Collision_Test,789_Pine_Rd,F,6.0,Delivered
+1050,Anthony_Brooks,707_Thorn_Ln,E,10.0,Delivered
+1051,Dylan_Kelly,808_Nettle_Dr,G,10.0,Delivered
